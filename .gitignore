@@ -1,1 +1,4 @@
-/.DS_Store
+.vscode/
+.venv/
+temp/
+.DS_Store
