@@ -1,4 +1,4 @@
-# Configure agents and agent pools for secure pipelines
+# [Configure agents and agent pools for secure pipelines](https://github.com/MicrosoftLearning/implement-security-through-pipeline-using-devops/blob/main/Instructions/Labs/APL2001_M02_L02_Configure_Agents_And_Agent_Pools_for_Secure_Pipelines.md)
 
 In this lab, you will learn how to configure Azure DevOps agents and agent Pools and manage permissions for those pools. Azure DevOps Agent Pools provide the resources to run your build and release pipelines.
 
@@ -8,7 +8,7 @@ These exercises take approximately 25 minutes.
 
 You'll need an Azure subscription, Azure DevOps organization, and the eShopOnWeb application to follow the labs.
 
-Follow the steps to validate your lab environment.
+Follow the steps to [validate your lab environment](https://raw.githubusercontent.com/MicrosoftLearning/implement-security-through-pipeline-using-devops/main/Instructions/Labs/APL2001_M00_Validate_Lab_Environment.md).
 
 ## Instructions
 

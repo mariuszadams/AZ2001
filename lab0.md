@@ -22,6 +22,22 @@ It may take a few minutes to process the request.
 You can check the balance of your Azure Pass Credits on https://www.microsoftazuresponsorships.com/balance
 
 
+# [Validate your lab environment](https://github.com/MicrosoftLearning/implement-security-through-pipeline-using-devops/blob/main/Instructions/Labs/APL2001_M00_Validate_Lab_Environment.md)
+
+In preparation for the labs, it is crucial to have your environment correctly set up. This page will guide you through the setup process, ensuring all prerequisites are met.
+
+- The labs require **Microsoft Edge** or an [Azure DevOps-supported browser.](https://learn.microsoft.com/azure/devops/server/compatibility?view=azure-devops#web-portal-supported-browsers)
+
+- **Set up an Azure Subscription:** If you don't already have an Azure subscription, create one by following the instructions on this page or visit [https://azure.microsoft.com/free](https://azure.microsoft.com/free) to sign up for a free.
+
+- **Set up an Azure DevOps organization:** If you don't already have an Azure DevOps organization that you can use for the labs, create one by following the instructions on this page, or at [Create an organization or project collection](https://learn.microsoft.com/azure/devops/organizations/accounts/create-organization).
+  
+- [Git for Windows download page](https://gitforwindows.org/). This will be installed as part of prerequisites for this lab.
+
+- [Visual Studio Code](https://code.visualstudio.com/). This will be installed as part of prerequisites for this lab.
+
+- [Azure CLI](https://learn.microsoft.com/cli/azure/install-azure-cli). Install the Azure CLI on the self-hosted agent machines.
+
 ## Instructions to create an Azure DevOps Organization (you only have to do this once)
 
 Note: Start at step 3, if you do already have a personal Microsoft Account setup and an active Azure Subscription linked to that account.

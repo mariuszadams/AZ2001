@@ -1,4 +1,4 @@
-# Configure a project and repository structure to support secure pipelines
+# [Configure a project and repository structure to support secure pipelines](https://github.com/MicrosoftLearning/implement-security-through-pipeline-using-devops/blob/main/Instructions/Labs/APL2001_M01_L01_Configure_a_Project_and_Repository_Structure_to_Support_Secure_Pipelines.md)
 
 In this lab, you will learn how to configure a project and repository structure in Azure DevOps to support secure pipelines. This lab covers best practices for organizing projects and repositories, assigning permissions, and managing secure files.
 
@@ -7,7 +7,7 @@ These exercises take approximately 30 minutes.
 ## Before you start
 
 You'll need an Azure subscription, Azure DevOps organization, and the eShopOnWeb application to follow the labs.
-Follow the steps to validate your lab environment.
+Follow the steps to [validate your lab environment](https://raw.githubusercontent.com/MicrosoftLearning/implement-security-through-pipeline-using-devops/main/Instructions/Labs/APL2001_M00_Validate_Lab_Environment.md).
 
 ## Instructions
 
