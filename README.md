@@ -16,6 +16,6 @@
 
 * Lab 5 [Extend a pipeline to use multiple templates](https://github.com/MicrosoftLearning/implement-security-through-pipeline-using-devops/blob/main/Instructions/Labs/APL2001_M05_L05_Extend_a_Pipeline_to_Use_Multiple_Templates.md)
 
-* Lab 6 [Integrate Azure Key Vault with Azure Pipelines]()
+* Lab 6 [Integrate Azure Key Vault with Azure Pipelines](https://github.com/MicrosoftLearning/implement-security-through-pipeline-using-devops/blob/main/Instructions/Labs/APL2001_M06_L06_Integrate_Azure_Key_Vault_With_Azure_Pipelines.md)
 
-* Lab 7 [Configure pipelines to securely use variables and parameters]()
+* Lab 7 [Configure pipelines to securely use variables and parameters](https://github.com/MicrosoftLearning/implement-security-through-pipeline-using-devops/blob/main/Instructions/Labs/APL2001_M07_L07_Configure_Pipelines_to_Securely_Use_Variables_and_Parameters.md)
